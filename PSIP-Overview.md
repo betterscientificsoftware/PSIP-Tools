@@ -2,13 +2,14 @@ Productivity and Sustainability Improvement Plan (PSIP) Overview
 
 ### Introduction
 
-A Productivity and Sustainability Improvement Plan (PSIP) is a living document meant as a planning and communication tool for capturing and conveying the practices, processes, policies and tools of a given software project.  It is also, and most importantly, a tool for helping a software team improve **_developer productivity_** (increasing software quality while reducing the effort, time, and cost of development and deployment) and **_software sustainability _**(maintaining and extending a software product over its intended lifespan).  The PSIP workflow is intended to be lightweight and fit in with a project’s standard planning and development process.
+A Productivity and Sustainability Improvement Plan (PSIP) is a living document meant as a planning and communication tool for capturing and conveying the practices, processes, policies and tools of a given software project.  It is also, and most importantly, a tool for helping a software team improve **_developer productivity_** (increasing software quality while reducing the effort, time, and cost of development and deployment) and **_software sustainability_**(maintaining and extending a software product over its intended lifespan).  The PSIP workflow is intended to be lightweight and fit in with a project’s standard planning and development process.
 
 ### The PSIP Workflow
 
 The development of a PSIP is a multi-step, iterative effort (see Figure 1):
+![PSIP Workflow Diagram](SwPspWorkflow.jpg)
 
-1. **Summarize**** Current Practices: **The first phase is to **briefly** document current project practices.  It is important to record the original state of the project to both provide a baseline for measuring progress and to help identify areas that are ready for improvement.  
+1. **Summarize**** Current Practices:**The first phase is to **briefly** document current project practices.  It is important to record the original state of the project to both provide a baseline for measuring progress and to help identify areas that are ready for improvement.  
 
 2. **Set Goals:** Completing Step 1 will typically bring to light practices that can benefit from a focused improvement effort.  Select goals that you think will best impact the project and are achievable within a predictable span of time (a few weeks to a few months).  Limit the number of goals to a few.  You will have a chance to come back and pick more in the future.
 
@@ -22,7 +23,7 @@ The development of a PSIP is a multi-step, iterative effort (see Figure 1):
 
 7. **Assess**** Progress: **During execution, assess progress each week.  Adjust your strategy for success if needed.  If progress is delayed too long, go to Step 8 to start the next iteration.
 
-8. **Repeat: **The PSIP process is iterative.  Continual process improvement is a valuable attribute for any software project.
+8. **Repeat:**The PSIP process is iterative.  Continual process improvement is a valuable attribute for any software project.
 
 The remainder of this document provides details for each of these eight steps.
 
