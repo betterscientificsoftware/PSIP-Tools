@@ -122,42 +122,34 @@ To gain insight into defining a progress tracking card, consider the following s
   <tr>
     <td>Practice: Test Coverage </td>
     <td>Score (0 – 5):</td>
-    <td></td>
   </tr>
   <tr>
     <td>Score Descriptions</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>0</td>
     <td>No unit testing.</td>
-    <td></td>
   </tr>
   <tr>
     <td>1</td>
     <td>Unit testing implemented for one example refactored class.</td>
-    <td></td>
   </tr>
   <tr>
     <td>2</td>
     <td>Two developers using unit testing process.</td>
-    <td></td>
   </tr>
   <tr>
     <td>3</td>
     <td>Unit testing developer documentation completed.</td>
-    <td></td>
   </tr>
   <tr>
     <td>4</td>
     <td>All developer trained to write unit tests.</td>
-    <td></td>
   </tr>
   <tr>
     <td>5</td>
     <td>New policy established: All refactored code is covered by unit tests.</td>
-    <td></td>
   </tr>
 </table>
 
