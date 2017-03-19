@@ -1,4 +1,4 @@
-﻿### **Software Team Interview Template**
+### **Software Team Interview Template**
 
 Project, PI:
 
