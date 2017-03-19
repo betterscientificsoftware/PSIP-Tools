@@ -12,7 +12,7 @@ A Productivity and Sustainability Improvement Plan (PSIP) is a living document m
 The development of a PSIP is a multi-step, iterative effort:
 ![PSIP Workflow Diagram](SwPspWorkflow.jpg)
 
-1. **Summarize**** Current Practices:**The first phase is to **briefly** document current project practices.  It is important to record the original state of the project to both provide a baseline for measuring progress and to help identify areas that are ready for improvement.  
+1. **Summarize Current Practices:** The first phase is to **briefly** document current project practices.  It is important to record the original state of the project to both provide a baseline for measuring progress and to help identify areas that are ready for improvement.  
 
 2. **Set Goals:** Completing Step 1 will typically bring to light practices that can benefit from a focused improvement effort.  Select goals that you think will best impact the project and are achievable within a predictable span of time (a few weeks to a few months).  Limit the number of goals to a few.  You will have a chance to come back and pick more in the future.
 
@@ -20,13 +20,13 @@ The development of a PSIP is a multi-step, iterative effort:
 
 4. **Record PTC Values:** In order to establish baseline capabilities and measure progress, you should record the initial values for each item of your PTC.
 
-5. **Create a Practice Improvement Plan: **In order to increase the values of your PTC (corresponding to improvements in software productivity and sustainability), develop a plan to reach a higher value for each PTC item.
+5. **Create a Practice Improvement Plan:** In order to increase the values of your PTC (corresponding to improvements in software productivity and sustainability), develop a plan to reach a higher value for each PTC item.
 
 6. **Execute the Plan:** Focus team efforts to improve the selected practices.  At first, you may see a slowdown, as your team works to start or improve a given practice.  The slowdown will likely be proportional to the amount of change, but ideally you should see steady progress on a weekly basis after the initial phase, and be able to complete execution of a particular practice improvement within a few months.
 
-7. **Assess**** Progress: **During execution, assess progress each week.  Adjust your strategy for success if needed.  If progress is delayed too long, go to Step 8 to start the next iteration.
+7. **Assess Progress:** During execution, assess progress each week.  Adjust your strategy for success if needed.  If progress is delayed too long, go to Step 8 to start the next iteration.
 
-8. **Repeat:**The PSIP process is iterative.  Continual process improvement is a valuable attribute for any software project.
+8. **Repeat:**  The PSIP process is iterative.  Continual process improvement is a valuable attribute for any software project.
 
 The remainder of this document provides details for each of these eight steps.
 
@@ -67,8 +67,6 @@ The initial activity in producing a PSIP is providing a summary of your current 
     11. How improvement efforts will be rewarded.
 
 #### Software used but not developed (a.k.a, third-party software):
-
- 
 
 Use of third-party software typically reduces the cost (time and effort) compared to developing the same capability independently.  At the same time, it also increases risk and complexity.  If the project makes significant use of scientific software developed by others, the following topics should be addressed:
 
@@ -123,7 +121,6 @@ To gain insight into defining a progress tracking card, consider the following s
 <table>
   <tr>
     <td>Practice: Test Coverage </td>
-    <td></td>
     <td>Score (0 – 5):</td>
     <td></td>
   </tr>
@@ -131,42 +128,35 @@ To gain insight into defining a progress tracking card, consider the following s
     <td>Score Descriptions</td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>0</td>
     <td>No unit testing.</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>1</td>
     <td>Unit testing implemented for one example refactored class.</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>2</td>
     <td>Two developers using unit testing process.</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>3</td>
     <td>Unit testing developer documentation completed.</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>4</td>
     <td>All developer trained to write unit tests.</td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>5</td>
     <td>New policy established: All refactored code is covered by unit tests.</td>
-    <td></td>
     <td></td>
   </tr>
 </table>
