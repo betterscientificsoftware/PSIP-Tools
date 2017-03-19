@@ -1,14 +1,14 @@
-﻿## Software Team Interviewer Guide
+## Software Team Interviewer Guide
 
 *The purpose of the Software Team Interview is to elicit and record a sketch of how a team produces and supports it software capabilities.*
 
 *Guidelines:*
 
-* **_Use team vocabulary:  _***We want to start our interviews using plain language and avoid misunderstood words that may be jargon to the interviewees, or bring up negative connotations. Even words like productivity, lifecycle model, regression testing, and others may be misunderstood, or negatively received by some people.*
+***_Use team vocabulary:  _***We want to start our interviews using plain language and avoid misunderstood words that may be jargon to the interviewees, or bring up negative connotations. Even words like productivity, lifecycle model, regression testing, and others may be misunderstood, or negatively received by some people.*
 
-* **_Get details: _***Ask specific questions, getting into details as much as you have time, and to the extent that the topic is one where improvements could be made.*
+***_Get details: _***Ask specific questions, getting into details as much as you have time, and to the extent that the topic is one where improvements could be made.*
 
-* **_Cover all productivity and sustainability subjects: _***Even though we want to avoid using vocabulary that is unfamiliar or vaguely understood, we do want information to emerge that addresses formal productivity and sustainability concerns.*
+***_Cover all productivity and sustainability subjects: _***Even though we want to avoid using vocabulary that is unfamiliar or vaguely understood, we do want information to emerge that addresses formal productivity and sustainability concerns.*
 
 As you conduct the interview, assess if you have missed any of these basic discussions:
 
