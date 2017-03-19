@@ -120,7 +120,7 @@ To gain insight into defining a progress tracking card, consider the following s
 
 <table>
   <tr>
-    <td>Practice: Test Coverage </td>
+    <td>Practice: Unit Testing </td>
     <td>Score (0 – 5):</td>
   </tr>
   <tr>
