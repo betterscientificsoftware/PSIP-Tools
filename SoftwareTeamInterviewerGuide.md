@@ -1,22 +1,22 @@
 ## Software Team Interviewer Guide
 
-*The purpose of the Software Team Interview is to elicit and record a sketch of how a team produces and supports it software capabilities.  This sketch is used as part of the Productivity and sustainability improvement planning (PSIP) process to provide a baseline description for measuring improvement and as the source for team practices that will be the focus of improvement.  After each iteration of the PSIP process, the sketch should be updated to reflect improvements.*
+*The purpose of the Software Team Interview is to elicit and record a sketch of how a team produces and supports it software capabilities.  This sketch is used as part of the productivity and sustainability improvement planning (PSIP) process to provide a baseline description for measuring improvement and as the source for team practices that will be the focus of improvement.  After each iteration of the PSIP process, the sketch should be updated to reflect improvements.*
 
-### Guidelines:
+## Guidelines:
 
-#### Pre-interview
+### Pre-interview
 
 If the team does not seem to have a common understanding of their software practices, it is worth having the team preview the [PSIP interview prompts](SoftwareTeamInterviewTemplate.md).  Doing so facilitates discussion between team members toward a common understanding of how the team produces software.
 
 If the team already has already has a common understanding of their software practices, you could still brief them on what we hope to accomplish from the interview and PSIP process.
 
-#### During the Interview
+### During the Interview
 
-***_Use team vocabulary:_*** We want to start our interviews using plain language and avoid misunderstood words that may be jargon to the interviewees, or bring up negative connotations. Even words like productivity, lifecycle model, regression testing, and others may be misunderstood, or negatively received by some people.*
+***_Use team vocabulary:_*** We want to start our interviews using plain language and avoid misunderstood words that may be jargon to the interviewees, or bring up negative connotations. Even words like productivity, lifecycle model, regression testing, and others may be misunderstood, or negatively received by some people.
 
-***_Get details:_*** Ask specific questions, getting into details as much as you have time, and to the extent that the topic is one where improvements could be made.*
+***_Get details:_*** Ask specific questions, getting into details as much as you have time, and to the extent that the topic is one where improvements could be made.
 
-***_Cover all productivity and sustainability subjects:_*** Even though we want to avoid using vocabulary that is unfamiliar or vaguely understood, we do want information to emerge that addresses formal productivity and sustainability concerns.*
+***_Cover all productivity and sustainability subjects:_*** Even though we want to avoid using vocabulary that is unfamiliar or vaguely understood, we do want information to emerge that addresses formal productivity and sustainability concerns.
 
 As you conduct the interview, assess if you have missed any of these basic discussions:
 
@@ -66,7 +66,7 @@ Use of third-party software typically reduces the cost (time and effort) compare
 
 2. How improvement efforts will be rewarded.
 
-#### After the Interview
+### After the Interview
 
 1. Follow up with the team by converging on a single document containing their software practices sketch.  Retain the document and version it for later reference.
 
