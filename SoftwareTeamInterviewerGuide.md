@@ -1,8 +1,16 @@
 ## Software Team Interviewer Guide
 
-*The purpose of the Software Team Interview is to elicit and record a sketch of how a team produces and supports it software capabilities.*
+*The purpose of the Software Team Interview is to elicit and record a sketch of how a team produces and supports it software capabilities.  This sketch is used as part of the Productivity and sustainability improvement planning (PSIP) process to provide a baseline description for measuring improvement and as the source for team practices that will be the focus of improvement.  After each iteration of the PSIP process, the sketch should be updated to reflect improvements.*
 
-*Guidelines:*
+### Guidelines:
+
+#### Pre-interview
+
+If the team does not seem to have a common understanding of their software practices, it is worth having the team preview the [PSIP interview prompts](SoftwareTeamInterviewTemplate.md).  Doing so facilitates discussion between team members toward a common understanding of how the team produces software.
+
+If the team already has already has a common understanding of their software practices, you could still brief them on what we hope to accomplish from the interview and PSIP process.
+
+#### During the Interview
 
 ***_Use team vocabulary:_*** We want to start our interviews using plain language and avoid misunderstood words that may be jargon to the interviewees, or bring up negative connotations. Even words like productivity, lifecycle model, regression testing, and others may be misunderstood, or negatively received by some people.*
 
@@ -57,4 +65,10 @@ Use of third-party software typically reduces the cost (time and effort) compare
 1. How software productivity and sustainability will be improved over the life of the proposed research project.
 
 2. How improvement efforts will be rewarded.
+
+#### After the Interview
+
+1. Follow up with the team by converging on a single document containing their software practices sketch.  Retain the document and version it for later reference.
+
+2. Work with the team to identify candidate practices that they will focus on improving as part of the PSIP effort.
 
