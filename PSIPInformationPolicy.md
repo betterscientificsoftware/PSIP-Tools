@@ -6,4 +6,4 @@ The PSIP process is intended to help software teams improve their software pract
 
 ### Policy
 
-The PSIP process includes a commitment to respecting the sensitivity of information shared by software teams. Information gathered as part of the PSIP process will only be released to others with the permission of the software team.
+The PSIP process includes a commitment to respecting the sensitivity of information shared by software teams. Information gathered as part of the PSIP process will be released to others only with the permission of the software team.
