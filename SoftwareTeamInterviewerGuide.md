@@ -10,6 +10,12 @@ If the team does not seem to have a common understanding of their software pract
 
 If the team already has already has a common understanding of their software practices, you could still brief them on what we hope to accomplish from the interview and PSIP process.
 
+Prior to the interview, assign these roles:
+- Host: Sets up meeting logistics, prepares for recording if planned, monitors meeting quality, different than the interviewer.
+- Interviewer: Leads discussion by expressing prompts and keeping the conversation focused.  Makes sure topics are fully and efficiently discussed.
+- Interviewee: The software team itself.
+- Notetakers: Best to have a lead notetaker who catches the stream of discussion as much as possible, with others who follow up filling in details.
+
 ### During the Interview
 
 ***_Use team vocabulary:_*** We want to start our interviews using plain language and avoid misunderstood words that may be jargon to the interviewees, or bring up negative connotations. Even words like productivity, lifecycle model, regression testing, and others may be misunderstood, or negatively received by some people.
