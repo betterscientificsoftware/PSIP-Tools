@@ -14,7 +14,7 @@ Prior to the interview, assign these roles:
 - Host: Sets up meeting logistics, prepares for recording if planned, monitors meeting quality, different than the interviewer.
 - Interviewer: Leads discussion by expressing prompts and keeping the conversation focused.  Makes sure topics are fully and efficiently discussed.
 - Interviewee: The software team itself.
-- Notetakers: Best to have a lead notetaker who catches the stream of discussion as much as possible, with others who follow up filling in details.
+- Notetakers: Best to have a lead notetaker who catches the stream of discussion as much as possible, with others who follow up filling in details.  The lead notetaker role can rotate among notetakers, switching at major transitions in discussion.
 
 ### During the Interview
 
