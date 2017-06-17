@@ -12,7 +12,7 @@ Interviewee(s):
 
 Interview date:
 
-*Use this series of questions to obtain a sketch of how the software team does its work.*
+*Use this series of questions to obtain a sketch of how the software team does its work. Interviewer should state at the beginning of interview, “At any time you can stop the interview and/or not have to answer a question you don’t want to.”*
 
 **Team Profile**
 
@@ -72,5 +72,5 @@ Interview date:
 
 1. How does your team try to improve how they do their work from year to year?
 
-2. Do team members get recognition for finding a better way to do their work?
+2. Do team members get recognition for finding a better way to do their work? Please answer only Yes or No. Note to interviewer: This question MAY be sensitive to the participants. Do not seek elaboration if the answer is “no.”
 
