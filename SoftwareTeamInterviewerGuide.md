@@ -72,9 +72,19 @@ Use of third-party software typically reduces the cost (time and effort) compare
 
 2. How improvement efforts will be rewarded.
 
+### Before Ending the Interview
+
+1. Identify candidate practices that the team will focus on improving as part of the PSIP effort.  A list of candidate practices should emerge from the interview discussions, but may need refinement in post-interview discussions.
+
+2. Record potential practices for improvement. Set a follow up meeting for about one week later for finalizing their software practices sketch and selecting practices that will be improved during the first PSIP iteration.
+
+3. Improving a software practice using PSIP requires planning how to complete the improvement. If the software team does not have a process for this kind of planning, it is strongly encouraged that one of the first practices to improve is lightweight formal planning.
+
+4. Assign a shepherd.  This person will be the contact point for the software team, to monitor progress and answer questions.
+
 ### After the Interview
 
-1. Follow up with the team by converging on a single document containing their software practices sketch.  Retain the document and version it for later reference.
+1. The shepherd stays in regular contact with the software team.
 
-2. Work with the team to identify candidate practices that they will focus on improving as part of the PSIP effort.
+2. The shepherd and the software team execute a complete PSIP iteration as sketch in the [PSIP Timeline document](PSIP-Timeline.md).
 
