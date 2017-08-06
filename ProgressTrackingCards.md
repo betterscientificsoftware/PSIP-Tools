@@ -9,3 +9,7 @@ Each PTC step is given a score.  A score of 0 is the baseline, indicating a team
 ### About PTC Scores
 
 PTC values are meant to be ordinal, not cardinal.  In other words, the values are not meant to indicate a global calibration of how well a team conducts a certain practices.  Scores are used within a team to track progress.  They should not be used to assess practices across teams.
+
+### PTC Examples
+
+[Coverage Testing Practices:](PTCs/CoverageTestingPractices.jpg)[PPTX Source](src/PTCs/CoverageTestingPractices.pptx) This sample card can be used as a template for a team wanting to improve the fraction of its code that is tested.  Statements should be customized and made precise for the team's goals.
