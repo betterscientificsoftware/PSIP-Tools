@@ -12,4 +12,4 @@ PTC values are meant to be ordinal, not cardinal.  In other words, the values ar
 
 ### PTC Examples
 
-[Coverage Testing Practices:](PTCs/CoverageTestingPractices.jpg)[PPTX Source](src/PTCs/CoverageTestingPractices.pptx) This sample card can be used as a template for a team wanting to improve the fraction of its code that is tested.  Statements should be customized and made precise for the team's goals.
+[Coverage Testing Practice:](PTCs/CoverageTestingPractice.jpg)[[PPTX Source]](src/PTCs/CoverageTestingPractice.pptx) This sample card can be used as a template for a team wanting to improve the fraction of its code that is tested.  Statements should be customized and made precise for the team's goals.
