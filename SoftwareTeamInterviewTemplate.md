@@ -24,6 +24,26 @@ Interview date:
 
 4. What do you consider unique about your team?
 
+**Project Profile**
+
+1. Library or application or both?
+
+1. Approximate lines of code?
+
+1. Number of repositories used?
+
+1. Languages used?
+
+1. Number of users?
+
+1. Release frequency, process and modality (source/binary)?
+
+1. Compilers and OS(s) supported?
+
+1. Modes/styles of parallelism?
+
+1. Other development logisitcs that may be unique to this project?
+
 **Development Topics**
 
 1. How does your team get an idea for working on a piece of software?
