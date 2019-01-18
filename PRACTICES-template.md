@@ -34,3 +34,6 @@ Any one of these categories could be a great topic for a PSIP PTC.
 - Citation Practicies:
   - Official citation:
   - Authorship contributions:
+- Development Practices:
+  - Task assignment:
+  - Task tracking:
