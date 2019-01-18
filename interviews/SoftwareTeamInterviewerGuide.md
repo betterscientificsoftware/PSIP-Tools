@@ -34,27 +34,27 @@ As you conduct the interview, assess if you have missed any of these basic discu
 
 #### **Software Development**
 
-1. How software requirements are determined and transformed into implemented code, tested and deployed (the software lifecycle), 
+1. How software requirements are determined and transformed into implemented code, tested and deployed (the software lifecycle),
 
-2. How integration of new and revised capabilities into the existing software will preserve existing capabilities (regression testing), 
+2. How integration of new and revised capabilities into the existing software will preserve existing capabilities (regression testing),
 
 3. How users will learn about utilizing the code in their scientific efforts (documentation and training).
 
 **Tools**
 
-1. Source management tools and processes (how source code will be developed and managed), 
+1. Source management tools and processes (how source code will be developed and managed),
 
-2. Issue tracking tools and processes (how feature requests and software faults or "bugs" will be recorded and managed), 
+2. Issue tracking tools and processes (how feature requests and software faults or "bugs" will be recorded and managed),
 
 3. Regression testing tools and processes (how regression tests will be invoked),
 
 4. Software distribution tools and processes (how will users and collaborators access software products).
 
-#### **Software used but not developed (a.k.a, third-party software):** 
+#### **Software used but not developed (a.k.a, third-party software):**
 
 Use of third-party software typically reduces the cost (time and effort) compared to developing the same capability independently.  At the same time, it also increases risk.  If the project makes significant use of scientific software developed by others, the following requirements should be addressed:
 
- 
+
 
 1. Describe how the third-party software is tested for correct behavior, initially and when upgrading to a new version (verification and validation).
 
@@ -86,5 +86,4 @@ Use of third-party software typically reduces the cost (time and effort) compare
 
 1. The shepherd stays in regular contact with the software team.
 
-2. The shepherd and the software team execute a complete PSIP iteration as sketch in the [PSIP Timeline document](PSIP-Timeline.md).
-
+2. The shepherd and the software team execute a complete PSIP iteration as sketch in the [PSIP Timeline document](../process/PSIP-Timeline.md).
