@@ -13,19 +13,7 @@ As progress is made check these items off:
 
 ### Definitions:
 
-- **Functional testing**:
-  Testing capabilities from user's perspective.
-  Many functions can be called.
-  Good for usability assurance.
-  Insufficient to protect against some regressions.
-  Difficult to isolate regressions.
-  Can require extensive execution times.
-- **Unit testing**:
-  Isolated, independent testing of functions and methods.
-  Enable test-driven development, rapid test execution, and fault isolation.
-  Insufficient to ensure functional correctness.
-- **Comprehensive**:
-  Does not mean 100% line coverage, but sufficient coverage to detect most errors.
-  Experts suggest various metrics such as >80% line coverage or a high percentage of function coverage.
-- **Commitment**:
-  Team is committed to writing comprehensive tests concurrent with functionality.
+- **Functional testing**: Testing capabilities from user's perspective. Many functions can be called. Good for usability assurance. Insufficient to protect against some regressions. Difficult to isolate regressions. Can require extensive execution times.
+- **Unit testing**: Isolated, independent testing of functions and methods. Enable test-driven development, rapid test execution, and fault isolation. Insufficient to ensure functional correctness.
+- **Comprehensive**: Does not mean 100% line coverage, but sufficient coverage to detect most errors. Experts suggest various metrics such as >80% line coverage or a high percentage of function coverage.
+- **Commitment**: Team is committed to writing comprehensive tests concurrent with functionality.
