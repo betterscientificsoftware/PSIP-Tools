@@ -9,6 +9,9 @@ Any one of these categories could be a great topic for a PSIP PTC.
 - Policies
   - location:
   - decision making process:
+  - PI:
+  - maintainer contact:
+  - code of conduct:
 - Version Tracking Practices
   - Official source location:
   - Source management system:
