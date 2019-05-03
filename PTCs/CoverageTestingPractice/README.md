@@ -11,6 +11,8 @@ As progress is made check these items off:
 - [ ] Functional testing for documented use cases.
 - [ ] Test coverage commitment.
 
+This PTC is provided as an example. Statements should be customized and made precise for the team's goals.
+
 ### Definitions:
 
 - **Functional testing**: Testing capabilities from user's perspective. Many functions can be called. Good for usability assurance. Insufficient to protect against some regressions. Difficult to isolate regressions. Can require extensive execution times.

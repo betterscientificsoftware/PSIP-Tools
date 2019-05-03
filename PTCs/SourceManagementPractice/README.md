@@ -8,3 +8,5 @@ As progress is made check these items off:
 - [ ] SMS used with effective commit messages
 - [ ] SMS use supports effective release management
 - [ ] SMS use provides active and stable branches
+
+This PTC is provided as an example. Statements should be customized and made precise for the team's goals.
