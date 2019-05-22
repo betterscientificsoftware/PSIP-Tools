@@ -10,9 +10,9 @@ A Productivity and Sustainability Improvement Plan (PSIP) is a living document m
 ### The PSIP Workflow
 
 The development of a PSIP is a multi-step, iterative effort:
-![PSIP Workflow Diagram](SwPspWorkflow.jpg)
+![PSIP Workflow Diagram](process/SwPspWorkflow.jpg)
 
-1. **Summarize Current Practices:** The first phase is to **briefly** document current project practices.  It is important to record the original state of the project to both provide a baseline for measuring progress and to help identify areas that are ready for improvement.  
+1. **Summarize Current Practices:** The first phase is to **briefly** document current project practices.  It is important to record the original state of the project to both provide a baseline for measuring progress and to help identify areas that are ready for improvement.
 
 2. **Set Goals:** Completing Step 1 will typically bring to light practices that can benefit from a focused improvement effort.  Select goals that you think will best impact the project and are achievable within a predictable span of time (a few weeks to a few months).  Limit the number of goals to a few.  You will have a chance to come back and pick more in the future.
 
@@ -38,17 +38,17 @@ The initial activity in producing a PSIP is providing a summary of your current 
 
 1. Describe the overall software development process used by the project, emphasizing elements that are most important for productivity and sustainability.  Details should include descriptions of:
 
-    1. How software requirements are determined and transformed into implemented code, tested and deployed (the software lifecycle), 
+    1. How software requirements are determined and transformed into implemented code, tested and deployed (the software lifecycle),
 
-    2. How integration of new and revised capabilities into the existing software will preserve existing capabilities (regression testing), 
+    2. How integration of new and revised capabilities into the existing software will preserve existing capabilities (regression testing),
 
     3. How users will learn about utilizing the code in their scientific efforts (documentation and training).
 
 2. Describe your tools and processes:
 
-    4. Source management tools and processes (how source code will be developed and managed), 
+    4. Source management tools and processes (how source code will be developed and managed),
 
-    5. Issue tracking tools and processes (how feature requests and software faults or "bugs" will be recorded and managed), 
+    5. Issue tracking tools and processes (how feature requests and software faults or "bugs" will be recorded and managed),
 
     6. Testing tools and processes (how tests will be invoked and reported),
 
@@ -70,7 +70,7 @@ The initial activity in producing a PSIP is providing a summary of your current 
 
 Use of third-party software typically reduces the cost (time and effort) compared to developing the same capability independently.  At the same time, it also increases risk and complexity.  If the project makes significant use of scientific software developed by others, the following topics should be addressed:
 
- 
+
 
 1. Describe how the third-party software is tested for correct behavior, initially and when upgrading to a new version (verification and validation).
 
@@ -154,7 +154,7 @@ To gain insight into defining a progress tracking card, consider the following s
 </table>
 
 
-### **Step 4: Record PTC Values** 
+### **Step 4: Record PTC Values**
 
 In order to establish baseline capabilities and measure progress, you should record the initial values for each item of your PTC.  Often the initial score will be zero.  However, you may have more than one active PTC, so scores can be updated across several PTC in different stages of progress.
 
@@ -187,4 +187,3 @@ During execution, assess progress each week.  Adjust your strategy for success i
 ### Step 8: Repeat
 
 The PSIP process is iterative.  Continual process improvement is a valuable attribute for any software project.  If your PTC has additional steps to complete, you update your practice improvement plan to include the steps needed to achieve the next score value.  If you were unable to increase your score within the expected development phase, update your practice improvement plan to reflect progress and consider how you can achieve a more accurate prediction of progress.
-
