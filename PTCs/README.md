@@ -16,6 +16,6 @@ PTC values are meant to be ordinal, not cardinal.  In other words, the values ar
 
 ### PTC Examples
 
-- [Coverage Testing Template:](CoverageTestingPractice.jpg) [[PPTX Source]](CoverageTestingPractice.pptx) Sample card template for a team wanting to improve the fraction of its code that is tested.  Statements should be customized and made precise for the team's goals.
-- [Source Management Template:](SourceManagementPractice.jpg) [[PPTX Source]](SourceManagamentPractice.pptx) Sample card template for a team wanting to introduce or improve source code management.  Statements should be customized and made precise for the team's goals.
-- [Unit Testing Example:](UnitTestingExample.jpg) [[PPTX Source]](UnitTestingExample.pptx) Example card taken from a project where the team was starting a refactoring effort and wanted to establish a comprehensive and sustainable unit testing capability.
+- [Coverage Testing Template:](./CoverageTestingPractice/CoverageTestingPractice.jpg) [[PPTX Source]](./CoverageTestingPractice/CoverageTestingPractice.pptx) Sample card template for a team wanting to improve the fraction of its code that is tested.  Statements should be customized and made precise for the team's goals.
+- [Source Management Template:](./SourceManagementPractice/SourceManagementPractice.jpg) [[PPTX Source]](./SourceManagementPractice/SourceManagementPractice.pptx) Sample card template for a team wanting to introduce or improve source code management.  Statements should be customized and made precise for the team's goals.
+- [Unit Testing Example:](./UnitTestingExample/UnitTestingExample.jpg) [[PPTX Source]](./UnitTestingExample/UnitTestingExample.pptx) Example card taken from a project where the team was starting a refactoring effort and wanted to establish a comprehensive and sustainable unit testing capability.
