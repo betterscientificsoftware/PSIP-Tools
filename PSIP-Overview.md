@@ -5,7 +5,7 @@
 
 ### Introduction
 
-A Productivity and Sustainability Improvement Plan (PSIP) is a living document meant as a planning and communication tool for capturing and conveying the practices, processes, policies and tools of a given software project.  It is also, and most importantly, a tool for helping a software team improve **_developer productivity_** (increasing software quality while reducing the effort, time, and cost of development and deployment) and **_software sustainability_**(maintaining and extending a software product over its intended lifespan).  The PSIP workflow is intended to be lightweight and fit in with a project’s standard planning and development process.
+A Productivity and Sustainability Improvement Plan (PSIP) is a living document meant as a planning and communication tool for capturing and conveying the practices, processes, policies and tools of a given software project.  It is also, and most importantly, a tool for helping a software team improve **_developer productivity_** (increasing software quality while reducing the effort, time, and cost of development and deployment) and **_software sustainability_** (maintaining and extending a software product over its intended lifespan).  The PSIP workflow is intended to be lightweight and fit in with a project’s standard planning and development process.
 
 ### The PSIP Workflow
 
